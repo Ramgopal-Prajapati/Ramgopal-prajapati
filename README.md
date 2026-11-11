@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🏫 Ramgopal Prajapati (Ram Sir)<br>💻 Dedicated Technical Trainer with 2+ years of teaching experience<br>🧑‍💻 Teaches Coding, Programming, and Software Development<br>📊 Also teaches Data Analytics and Data Science<br>🎓 B.Tech completed, currently pursuing M.Tech<br>🏢 Selected as Software Engineer in multiple companies<br>❤️ Passionate about teaching and mentoring students<br>🌐 Works as a Freelance Web Developer alongside training
+👨‍🏫 Ramgopal Prajapati (Ram Sir)<br>💻 Dedicated Technical Trainer with 3+ years of teaching experience<br>🧑‍💻 Teaches Coding, Programming, and Software Development<br>📊 Also teaches Data Analytics and Data Science<br>🎓 B.Tech completed, currently pursuing M.Tech<br>🏢 Selected as Software Engineer in multiple companies<br>❤️ Passionate about teaching and mentoring students<br>🌐 Works as a Freelance Web Developer alongside training
 
 
 ## 🌐 Socials:
